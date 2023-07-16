@@ -5,6 +5,13 @@ This is a resume challenge project done on the CodeBasics website.
 
 [Codebasics Resume Challenge Link](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
+[LinkedIn Post Link](https://www.linkedin.com/feed/update/urn:li:activity:7086410601744220160/)
+
+[Power point link](https://krishnasahoo-my.sharepoint.com/:p:/r/personal/krishnasahoo_krishnasahoo_onmicrosoft_com/_layouts/15/Doc.aspx?sourcedoc=%7B01EB296C-D1A7-4319-93C8-B4FC01290E8D%7D&file=codex%20ppt%201.pptx&action=edit&mobileredirect=true&login_hint=KrishnaSahoo%40krishnasahoo.onmicrosoft.com&ct=1689531741127&wdOrigin=OFFICECOM-WEB.START.UPLOAD&cid=76ef9daf-79ff-4710-8819-88463a5feccf&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=9d5f20c3-adf4-4b32-949f-4d6eb8f76b2e)
+
+[Power BI](https://app.powerbi.com/groups/me/reports/ebcf3e4b-de82-4cc7-af27-9c346d2587be/ReportSectiond27e101a7013c22ddf33?experience=power-bi)
+
+
 ### Objective 
 **Domain**: Food and Beverage Industry  
 **Function**: Marketing  
