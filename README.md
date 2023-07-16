@@ -32,12 +32,12 @@ Preferred Purchasing LOcation: Supermarkets
 Typical Consumption Situation: Sports/Exercise
 Consumption Frequency : 2-3 times a week
 Consumption Reason: Increased Energy and Focus
-Consumtion Time: To stay awake during work/study
+Consumption Time: To stay awake during work/study
 
 #### Target Audience:
-Male consumers withing the age of 19-30 .
+Male consumers within the age range of 19–30
 
-Marketing Channels: Online Ads and TV Comercials
+**Marketing Channels:** Online Ads and TV Commercials
 
 
 
