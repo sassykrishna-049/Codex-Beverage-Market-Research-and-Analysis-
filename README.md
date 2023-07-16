@@ -20,6 +20,26 @@ This is a resume challenge project done on the CodeBasics website.
 
 Their Marketing team is responsible for increasing brand awareness, market share, and product development. They conducted a survey in those 10 cities and received results from 10,000 respondents.  We need to convert these survey results into meaningful insights that the team can use to drive action and increase sales.
 
+Insights from the Survey :
+#### Consumer Preference :
+
+Preferred Ingredient: Caffeine
+Preferred Price Range : 50-100
+Preferred Packaging : Compact and portable cans
+Preferred Purchasing LOcation: Supermarkets
+
+#### Consumption Details:
+Typical Consumption Situation: Sports/Exercise
+Consumption Frequency : 2-3 times a week
+Consumption Reason: Increased Energy and Focus
+Consumtion Time: To stay awake during work/study
+
+#### Target Audience:
+Male consumers withing the age of 19-30 .
+
+Marketing Channels: Online Ads and TV Comercials
+
+
 
 
 
